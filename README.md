@@ -27,10 +27,10 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 ```bash
 
     # Clonar o repositório
-    $ git clone https://github.com/pedrow42/education_site
+    $ git clone https://github.com/pedrow42/landing_page
 
     ## Entrar no diretório
-    $ cd education_site/html
+    $ cd landing_page/html
 
     ## Inicie o sistema
       index.html
