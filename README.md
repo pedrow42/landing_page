@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">
     Starbucks
 </h1>
@@ -35,3 +36,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
     ## Inicie o sistema
       index.html
 ```
+=======
+# starbucks
+ a sturbucks landing page
+>>>>>>> 84afdce03f92b97fe1460be3c2a54bacb5c0c96e
